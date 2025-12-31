@@ -1,0 +1,2 @@
+# mysql-data-science-projects1
+DATA-DRIVEN INSIGHTS FOR EARLY SKIN CANCER DETECTION
