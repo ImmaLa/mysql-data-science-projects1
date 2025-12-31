@@ -1,7 +1,7 @@
 Skin Cancer Early Detection Project
 
 Objective:
-This project uses machine learning and SQL-based data analysis to detect skin cancer early by identifying patterns in demographics, environmental exposure, and lesion characteristics. The goal is to support timely diagnosis and informed clinical decision-making.
+This project uses machine learning and SQL-based data analysis to identify patterns in the data. The data includes patient demographics, level of environmental exposure, and lesion characteristics. The goal is to support timely diagnosis and informed clinical decision-making.
 
 Dataset:
 
